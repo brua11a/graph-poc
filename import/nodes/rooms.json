@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "building": "C-14",
+    "room_num": "112"
+  },
+  {
+    "id": 2,
+    "building": "D-9",
+    "room_num": "208"
+  },
+  {
+    "id": 3,
+    "building": "C-3",
+    "room_num": "015"
+  },
+  {
+    "id": 4,
+    "building": "D-20",
+    "room_num": "301"
+  },
+  {
+    "id": 5,
+    "building": "C-11",
+    "room_num": "104"
+  },
+  {
+    "id": 6,
+    "building": "D-5",
+    "room_num": "217"
+  },
+  {
+    "id": 7,
+    "building": "C-18",
+    "room_num": "410"
+  },
+  {
+    "id": 8,
+    "building": "D-7",
+    "room_num": "022"
+  },
+  {
+    "id": 9,
+    "building": "C-6",
+    "room_num": "133"
+  },
+  {
+    "id": 10,
+    "building": "D-13",
+    "room_num": "245"
+  },
+  {
+    "id": 11,
+    "building": "C-19",
+    "room_num": "308"
+  },
+  {
+    "id": 12,
+    "building": "D-4",
+    "room_num": "119"
+  },
+  {
+    "id": 13,
+    "building": "C-16",
+    "room_num": "227"
+  },
+  {
+    "id": 14,
+    "building": "D-10",
+    "room_num": "336"
+  },
+  {
+    "id": 15,
+    "building": "C-8",
+    "room_num": "101"
+  },
+  {
+    "id": 16,
+    "building": "D-15",
+    "room_num": "214"
+  },
+  {
+    "id": 17,
+    "building": "C-12",
+    "room_num": "319"
+  },
+  {
+    "id": 18,
+    "building": "D-3",
+    "room_num": "028"
+  },
+  {
+    "id": 19,
+    "building": "C-20",
+    "room_num": "142"
+  },
+  {
+    "id": 20,
+    "building": "D-6",
+    "room_num": "255"
+  },
+  {
+    "id": 21,
+    "building": "C-9",
+    "room_num": "310"
+  },
+  {
+    "id": 22,
+    "building": "D-17",
+    "room_num": "123"
+  },
+  {
+    "id": 23,
+    "building": "C-4",
+    "room_num": "230"
+  },
+  {
+    "id": 24,
+    "building": "D-11",
+    "room_num": "347"
+  },
+  {
+    "id": 25,
+    "building": "C-7",
+    "room_num": "108"
+  },
+  {
+    "id": 26,
+    "building": "D-14",
+    "room_num": "215"
+  },
+  {
+    "id": 27,
+    "building": "C-15",
+    "room_num": "322"
+  },
+  {
+    "id": 28,
+    "building": "D-8",
+    "room_num": "016"
+  },
+  {
+    "id": 29,
+    "building": "C-17",
+    "room_num": "129"
+  },
+  {
+    "id": 30,
+    "building": "D-12",
+    "room_num": "234"
+  },
+  {
+    "id": 31,
+    "building": "C-5",
+    "room_num": "348"
+  },
+  {
+    "id": 32,
+    "building": "D-19",
+    "room_num": "117"
+  },
+  {
+    "id": 33,
+    "building": "C-10",
+    "room_num": "226"
+  },
+  {
+    "id": 34,
+    "building": "D-16",
+    "room_num": "335"
+  },
+  {
+    "id": 35,
+    "building": "C-13",
+    "room_num": "004"
+  },
+  {
+    "id": 36,
+    "building": "D-18",
+    "room_num": "111"
+  },
+  {
+    "id": 37,
+    "building": "C-3",
+    "room_num": "218"
+  },
+  {
+    "id": 38,
+    "building": "C-6",
+    "room_num": "129"
+  },
+  {
+    "id": 39,
+    "building": "C-6",
+    "room_num": "128"
+  },
+  {
+    "id": 40,
+    "building": "C-13",
+    "room_num": "201"
+  },
+  {
+    "id": 41,
+    "building": "C-13",
+    "room_num": "202"
+  },
+  {
+    "id": 42,
+    "building": "D-2",
+    "room_num": "101"
+  },
+  {
+    "id": 43,
+    "building": "A-1",
+    "room_num": "305"
+  },
+  {
+    "id": 44,
+    "building": "A-1",
+    "room_num": "306"
+  },
+  {
+    "id": 45,
+    "building": "B-1",
+    "room_num": "12"
+  }
+]

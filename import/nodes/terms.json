@@ -1,0 +1,25 @@
+[
+  { "id": 101, "sem": 1, "curriculum_id": 1 },
+  { "id": 102, "sem": 2, "curriculum_id": 1 },
+  { "id": 103, "sem": 3, "curriculum_id": 1 },
+  { "id": 104, "sem": 4, "curriculum_id": 1 },
+  { "id": 105, "sem": 5, "curriculum_id": 1 },
+  { "id": 106, "sem": 6, "curriculum_id": 1 },
+  { "id": 107, "sem": 7, "curriculum_id": 1 },
+
+  { "id": 201, "sem": 1, "curriculum_id": 2 },
+  { "id": 202, "sem": 2, "curriculum_id": 2 },
+  { "id": 203, "sem": 3, "curriculum_id": 2 },
+  { "id": 204, "sem": 4, "curriculum_id": 2 },
+  { "id": 205, "sem": 5, "curriculum_id": 2 },
+  { "id": 206, "sem": 6, "curriculum_id": 2 },
+  { "id": 207, "sem": 7, "curriculum_id": 2 },
+
+  { "id": 301, "sem": 1, "curriculum_id": 3 },
+  { "id": 302, "sem": 2, "curriculum_id": 3 },
+  { "id": 303, "sem": 3, "curriculum_id": 3 },
+  { "id": 304, "sem": 4, "curriculum_id": 3 },
+  { "id": 305, "sem": 5, "curriculum_id": 3 },
+  { "id": 306, "sem": 6, "curriculum_id": 3 },
+  { "id": 307, "sem": 7, "curriculum_id": 3 }
+]

@@ -1,0 +1,12 @@
+[
+  { "teacher_idx": "T001", "faculty_id": 1 },
+  { "teacher_idx": "T002", "faculty_id": 1 },
+  { "teacher_idx": "T003", "faculty_id": 1 },
+  { "teacher_idx": "T006", "faculty_id": 1 },
+  { "teacher_idx": "T007", "faculty_id": 1 },
+  { "teacher_idx": "T008", "faculty_id": 1 },
+  { "teacher_idx": "T009", "faculty_id": 1 },
+  { "teacher_idx": "T010", "faculty_id": 1 },
+  { "teacher_idx": "T011", "faculty_id": 2 },
+  { "teacher_idx": "T012", "faculty_id": 2 }
+]

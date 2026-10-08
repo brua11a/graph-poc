@@ -1,0 +1,58 @@
+[
+  {
+    "idx": "279413", "name": "Anna", "surname": "Kowalska",
+    "phone": "600111222", "photo": "279413.jpg",
+    "joined": "2023-10-01T00:00:00+01:00",
+    "email": "279413@student.pwr.edu.pl", "passwd_hash": "s1a2b3c4"
+  },
+  {
+    "idx": "281056", "name": "Piotr", "surname": "Nowak",
+    "phone": "601222333",
+    "joined": "2023-10-01T00:00:00+01:00",
+    "email": "281056@student.pwr.edu.pl", "passwd_hash": "s2b3c4d5"
+  },
+  {
+    "idx": "277890", "name": "Marek", "surname": "Wiśniewski",
+    "joined": "2022-10-01T00:00:00+01:00",
+    "email": "277890@student.pwr.edu.pl", "passwd_hash": "s3c4d5e6"
+  },
+  {
+    "idx": "283471", "name": "Julia", "surname": "Wójcik",
+    "phone": "602333444", "photo": "283471.jpg",
+    "joined": "2024-10-01T00:00:00+01:00",
+    "email": "283471@student.pwr.edu.pl", "passwd_hash": "s4d5e6f7"
+  },
+  {
+    "idx": "279988", "name": "Kacper", "surname": "Kamiński",
+    "joined": "2023-10-01T00:00:00+01:00",
+    "email": "279988@student.pwr.edu.pl", "passwd_hash": "s5e6f7g8"
+  },
+  {
+    "idx": "282765", "name": "Natalia", "surname": "Lewandowska",
+    "phone": "603444555",
+    "joined": "2024-10-01T00:00:00+01:00",
+    "email": "282765@student.pwr.edu.pl", "passwd_hash": "s6f7g8h9"
+  },
+  {
+    "idx": "278234", "name": "Jakub", "surname": "Zieliński",
+    "photo": "278234.jpg",
+    "joined": "2022-10-01T00:00:00+01:00",
+    "email": "278234@student.pwr.edu.pl", "passwd_hash": "s7g8h9i0"
+  },
+  {
+    "idx": "284102", "name": "Oliwia", "surname": "Szymańska",
+    "joined": "2024-10-01T00:00:00+01:00",
+    "email": "284102@student.pwr.edu.pl", "passwd_hash": "s8h9i0j1"
+  },
+  {
+    "idx": "280519", "name": "Mateusz", "surname": "Dąbrowski",
+    "phone": "604555666", "photo": "280519.jpg",
+    "joined": "2023-10-01T00:00:00+01:00",
+    "email": "280519@student.pwr.edu.pl", "passwd_hash": "s9i0j1k2"
+  },
+  {
+    "idx": "285677", "name": "Zuzanna", "surname": "Kozłowska",
+    "joined": "2025-10-01T00:00:00+01:00",
+    "email": "285677@student.pwr.edu.pl", "passwd_hash": "s0j1k2l3"
+  }
+]
